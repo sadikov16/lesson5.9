@@ -1,0 +1,7 @@
+.crads{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 250px;
+    gap: 40px;
+    margin-top: 60px;
+}
